@@ -1,4 +1,4 @@
-# MonsterMizer project
+# OpenAIGuide project and MonsterMizer project
 
 This is the open-source part of the <a href=http://www.monstermizer.com target="_blank">MonsterMizer</a>.<br/>
 You can find open-sourced data here: <a href='https://github.com/oliviermirat/MonsterMizer/tree/master/MonsterMizerOpenData' target='_blank'>MonsterMizer Open Data</a>.<br/>
@@ -18,4 +18,6 @@ Data can be collected on the webstie http://www.monstermizer.com/
 
 For any other information, feel free to email: <br/>
 olivier.mirat.om@gmail.com liubov.tupikina@cri-paris.org
+
+Currently this project is done together with CorrelAid team of volunteers.
 
